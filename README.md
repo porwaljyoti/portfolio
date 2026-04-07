@@ -18,7 +18,7 @@ I am a data-driven professional with experience in AI, analytics, and teaching.
 •	Utilized tools including BLAST, CLUSTALW, PHYLIP, PDB, and C++ for sequence and protein analysis.
 
 - Result: Improved understanding of performance trends.
-- Project Image:
+- Project Image: DFA_model.png
   
 
 ## Contact
