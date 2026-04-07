@@ -17,7 +17,9 @@ I am a data-driven professional with experience in AI, analytics, and teaching.
 •	Integrated and aligned large-scale biological datasets to improve analytical accuracy and research reproducibility.
 •	Utilized tools including BLAST, CLUSTALW, PHYLIP, PDB, and C++ for sequence and protein analysis.
 
-- Result: Improved understanding of performance trends
+- Result: Improved understanding of performance trends.
+- Project Image:
+  
 
 ## Contact
 porwaljyoti82@gmail.com
